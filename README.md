@@ -48,6 +48,8 @@ Foi identificada a oportunidade de criar uma experiência digital que apresentas
 🔹Possuem excesso de informações;
 
 🔹Não transmitem confiança suficiente para a compra.
+
+
 ---
 
 ## Objetivos de Negócio
