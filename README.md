@@ -385,7 +385,7 @@ Confiança para empreender;
 Motivação para implementar mudanças.
 ---
 
-16. Aprendizados do Projeto
+## Aprendizados do Projeto
 
 Linguagem simples gera mais conexão.
 
